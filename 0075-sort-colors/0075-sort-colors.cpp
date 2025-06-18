@@ -18,7 +18,7 @@ public:
 
    
     // for(int i = red + white; i < nums.size(); i++) nums[i] = 2;
-
+//Dutch National Flag algorithm
     int low = 0, mid = 0, high = nums.size() - 1;
 
     while(mid <= high) {
@@ -33,6 +33,7 @@ public:
         else {
             swap(nums[mid], nums[high]);
             high--;
+            // mid++;
         }
     }
 }
