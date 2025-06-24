@@ -51,11 +51,13 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Viveksah7875/leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Viveksah7875/leetcode_solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Viveksah7875/leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
