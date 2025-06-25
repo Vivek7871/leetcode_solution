@@ -8,7 +8,7 @@ public:
 
         int i = 0, j = str.length() - 1;
 
-        while (i <= j) {
+        while (i < j) {
             if (!isVowel(str[i])) {
                 i++;
             } else if (!isVowel(str[j])) {
