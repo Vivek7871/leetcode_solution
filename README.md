@@ -25,6 +25,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Viveksah7875/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
