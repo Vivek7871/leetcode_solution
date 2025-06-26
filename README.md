@@ -50,6 +50,7 @@
 | [0125-valid-palindrome](https://github.com/Viveksah7875/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
