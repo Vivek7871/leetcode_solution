@@ -25,8 +25,8 @@ public:
         int n=s.size();
       for(int i=0;i<n;i++){
         char current_char=s[i];
-        if(ans.empty()) ans.push_back(current_char);
-        else if(current_char==ans.back()) ans.pop_back();
+        // if(ans.empty()) ans.push_back(current_char);
+        if(!ans.empty()&&current_char==ans.back()) ans.pop_back();
         else{
             ans.push_back(current_char);
         }
