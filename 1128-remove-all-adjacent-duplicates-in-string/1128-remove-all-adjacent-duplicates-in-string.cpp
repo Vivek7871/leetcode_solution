@@ -22,13 +22,15 @@ class Solution {
 public:
     string removeDuplicates(string s) {
         string ans;
-        for (char ch : s) {
-            if (!ans.empty() && ans.back() == ch) {
-                ans.pop_back(); // remove duplicate
-            } else {
-                ans.push_back(ch); // add current char
-            }
+        int n=s.size();
+      for(int i=0;i<n;i++){
+        char current_char=s[i];
+        if(ans.empty()) ans.push_back(current_char);
+        else if(current_char==ans.back()) ans.pop_back();
+        else{
+            ans.push_back(current_char);
         }
-        return ans;
+      }
+      return ans;
     }
 };
