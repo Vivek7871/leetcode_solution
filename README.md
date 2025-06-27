@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
@@ -31,12 +32,14 @@
 | [0344-reverse-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Viveksah7875/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
