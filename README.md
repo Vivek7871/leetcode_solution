@@ -83,6 +83,7 @@
 | [0029-divide-two-integers](https://github.com/Viveksah7875/leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Viveksah7875/leetcode_solution/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Viveksah7875/leetcode_solution/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
