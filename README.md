@@ -75,6 +75,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3533-snake-in-matrix](https://github.com/Viveksah7875/leetcode_solution/tree/master/3533-snake-in-matrix) |
+| [3617-find-the-original-typed-string-i](https://github.com/Viveksah7875/leetcode_solution/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
 | ------- |
