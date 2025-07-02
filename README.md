@@ -67,6 +67,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Viveksah7875/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Viveksah7875/leetcode_solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Viveksah7875/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0344-reverse-string) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Viveksah7875/leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Viveksah7875/leetcode_solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Viveksah7875/leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Viveksah7875/leetcode_solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Viveksah7875/leetcode_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Viveksah7875/leetcode_solution/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Viveksah7875/leetcode_solution/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Viveksah7875/leetcode_solution/tree/master/0338-counting-bits) |
@@ -107,6 +110,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Viveksah7875/leetcode_solution/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3533-snake-in-matrix](https://github.com/Viveksah7875/leetcode_solution/tree/master/3533-snake-in-matrix) |
 ## Greedy
