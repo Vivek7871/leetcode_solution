@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Viveksah7875/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0539-minimum-time-difference](https://github.com/Viveksah7875/leetcode_solution/tree/master/0539-minimum-time-difference) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
@@ -50,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/Viveksah7875/leetcode_solution/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0539-minimum-time-difference](https://github.com/Viveksah7875/leetcode_solution/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Viveksah7875/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -90,6 +93,7 @@
 | [0069-sqrtx](https://github.com/Viveksah7875/leetcode_solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Viveksah7875/leetcode_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/Viveksah7875/leetcode_solution/tree/master/0539-minimum-time-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
