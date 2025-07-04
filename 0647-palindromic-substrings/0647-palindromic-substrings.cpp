@@ -1,63 +1,28 @@
-// class Solution {
-// public:
-//     int countSubstrings(string s) {
-//         vector<char> ans;
-//         vector<string> ans2;
-//         int n = s.size();
-//         for (int i = 0; i < n; i++) {
-//             ans.push_back(s[i]);
-//         }
-//         string temp = "";
-//         for (int i = 0; i < n-1; i++) {
-//             for (int j = i + 1; j < n; j++) {
-//                 if (s[i] == s[j]) {
-                    
-//                     temp += s[i];
-//                     temp += s[j];
-//                     ans2.push_back(temp);
-//                     temp.clear();
-
-//                 } else {
-//                     j++;
-//                 }
-//             }
-//         }
-//         return ans.size()+ans2.size();
-
-//     }
-// };
-
+// leetcode647. Palindromic Substrings
 class Solution {
 public:
-    // Helper function to check if a substring is palindrome
-    bool isPalindrome(string str) {
-        int i = 0, j = str.length() - 1;
-        while (i < j) {
-            if (str[i] != str[j])
-                return false;
-            i++;
-            j--;
-        }
-        return true;
-    }
-
-    int countSubstrings(string s) {
+    int expandAroundCenter(string s, int i, int j){
         int count = 0;
-        int n = s.size();
-
-        // Traverse all possible substrings
-        for (int i = 0; i < n; i++) {
-            string temp = "";
-            for (int j = i; j < n; j++) {
-                temp += s[j]; // form substring from i to j
-                if (isPalindrome(temp)) {
-                    count++;
-                }
-            }
+        while(i>=0 && j<=s.length() && s[i]==s[j]){ //i and j should be valid index
+            count++;
+            i--;
+            j++;
         }
-
         return count;
     }
+    int countSubstrings(string s) {
+        int totalCount = 0;
+        for(int center = 0; center < s.length(); center++){
+            //odd length substr
+            int i = center;
+            int j = center;
+            int oddPalindromeSubstrCount = expandAroundCenter(s, i ,j);
+            //even length substr
+            i = center;
+            j = center + 1;
+            int evenPalindromeSubstrCount = expandAroundCenter(s, i ,j);
+            totalCount = totalCount + oddPalindromeSubstrCount + evenPalindromeSubstrCount;
+        }
+        return totalCount;
+    }
 };
-
-  
