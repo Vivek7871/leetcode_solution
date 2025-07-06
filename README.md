@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Viveksah7875/leetcode_solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Viveksah7875/leetcode_solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Viveksah7875/leetcode_solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Viveksah7875/leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
@@ -48,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Viveksah7875/leetcode_solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
