@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Viveksah7875/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Viveksah7875/leetcode_solution/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0015-3sum](https://github.com/Viveksah7875/leetcode_solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Viveksah7875/leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Viveksah7875/leetcode_solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Viveksah7875/leetcode_solution/tree/master/0125-valid-palindrome) |
