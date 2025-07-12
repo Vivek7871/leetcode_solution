@@ -38,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Viveksah7875/leetcode_solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Viveksah7875/leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -77,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Viveksah7875/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Viveksah7875/leetcode_solution/tree/master/0058-length-of-last-word) |
@@ -145,6 +147,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/Viveksah7875/leetcode_solution/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Viveksah7875/leetcode_solution/tree/master/0647-palindromic-substrings) |
 ## Enumeration
