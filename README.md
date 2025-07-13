@@ -109,6 +109,7 @@
 | [0066-plus-one](https://github.com/Viveksah7875/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Viveksah7875/leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Viveksah7875/leetcode_solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Viveksah7875/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Viveksah7875/leetcode_solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Viveksah7875/leetcode_solution/tree/master/0539-minimum-time-difference) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Viveksah7875/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Viveksah7875/leetcode_solution/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Viveksah7875/leetcode_solution/tree/master/0647-palindromic-substrings) |
 ## Enumeration
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Viveksah7875/leetcode_solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
