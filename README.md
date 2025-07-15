@@ -20,6 +20,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Viveksah7875/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Viveksah7875/leetcode_solution/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Viveksah7875/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Viveksah7875/leetcode_solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0088-merge-sorted-array) |
@@ -141,6 +142,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Viveksah7875/leetcode_solution/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/Viveksah7875/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Viveksah7875/leetcode_solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Viveksah7875/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Viveksah7875/leetcode_solution/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Viveksah7875/leetcode_solution/tree/master/0647-palindromic-substrings) |
