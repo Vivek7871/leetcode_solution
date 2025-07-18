@@ -20,6 +20,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Viveksah7875/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Viveksah7875/leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Viveksah7875/leetcode_solution/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Viveksah7875/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Viveksah7875/leetcode_solution/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viveksah7875/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Viveksah7875/leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
 ## Math
