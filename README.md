@@ -25,6 +25,7 @@
 | [0055-jump-game](https://github.com/Viveksah7875/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Viveksah7875/leetcode_solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Viveksah7875/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Viveksah7875/leetcode_solution/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
@@ -137,6 +138,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Viveksah7875/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -163,6 +165,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Viveksah7875/leetcode_solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Viveksah7875/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Viveksah7875/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/Viveksah7875/leetcode_solution/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Viveksah7875/leetcode_solution/tree/master/0647-palindromic-substrings) |
 ## Enumeration
@@ -181,6 +184,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Viveksah7875/leetcode_solution/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/Viveksah7875/leetcode_solution/tree/master/0085-maximal-rectangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,4 +205,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viveksah7875/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Viveksah7875/leetcode_solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
