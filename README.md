@@ -45,6 +45,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Viveksah7875/leetcode_solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Viveksah7875/leetcode_solution/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3533-snake-in-matrix](https://github.com/Viveksah7875/leetcode_solution/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -124,6 +125,7 @@
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Viveksah7875/leetcode_solution/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
