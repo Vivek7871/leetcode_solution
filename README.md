@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/Viveksah7875/leetcode_solution/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Viveksah7875/leetcode_solution/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Viveksah7875/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Viveksah7875/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
@@ -77,6 +78,7 @@
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Viveksah7875/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Viveksah7875/leetcode_solution/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viveksah7875/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Viveksah7875/leetcode_solution/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Viveksah7875/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
