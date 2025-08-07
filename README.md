@@ -43,6 +43,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Viveksah7875/leetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1848-sum-of-unique-elements](https://github.com/Viveksah7875/leetcode_solution/tree/master/1848-sum-of-unique-elements) |
 | [2102-find-the-middle-index-in-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Viveksah7875/leetcode_solution/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -127,6 +128,7 @@
 | [0217-contains-duplicate](https://github.com/Viveksah7875/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1848-sum-of-unique-elements](https://github.com/Viveksah7875/leetcode_solution/tree/master/1848-sum-of-unique-elements) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Viveksah7875/leetcode_solution/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Math
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Viveksah7875/leetcode_solution/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/Viveksah7875/leetcode_solution/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
