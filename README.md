@@ -116,6 +116,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Viveksah7875/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Viveksah7875/leetcode_solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
 | [3533-snake-in-matrix](https://github.com/Viveksah7875/leetcode_solution/tree/master/3533-snake-in-matrix) |
@@ -129,6 +130,7 @@
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/Viveksah7875/leetcode_solution/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Viveksah7875/leetcode_solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Viveksah7875/leetcode_solution/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Math
@@ -260,4 +262,5 @@
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/Viveksah7875/leetcode_solution/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Viveksah7875/leetcode_solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
