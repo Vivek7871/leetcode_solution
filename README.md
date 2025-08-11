@@ -9,11 +9,13 @@
 | [0023-merge-k-sorted-lists](https://github.com/Viveksah7875/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Viveksah7875/leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Viveksah7875/leetcode_solution/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/Viveksah7875/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Viveksah7875/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Viveksah7875/leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Viveksah7875/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0075-sort-colors](https://github.com/Viveksah7875/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Viveksah7875/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/Viveksah7875/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Viveksah7875/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0344-reverse-string) |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Viveksah7875/leetcode_solution/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/Viveksah7875/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
