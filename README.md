@@ -43,6 +43,7 @@
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Viveksah7875/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Viveksah7875/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Viveksah7875/leetcode_solution/tree/master/0539-minimum-time-difference) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/Viveksah7875/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Viveksah7875/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [1848-sum-of-unique-elements](https://github.com/Viveksah7875/leetcode_solution/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Viveksah7875/leetcode_solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Viveksah7875/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Viveksah7875/leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Viveksah7875/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Viveksah7875/leetcode_solution/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Viveksah7875/leetcode_solution/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
