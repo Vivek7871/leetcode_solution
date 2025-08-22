@@ -45,6 +45,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Viveksah7875/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Viveksah7875/leetcode_solution/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Viveksah7875/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Viveksah7875/leetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -137,6 +138,7 @@
 | [0268-missing-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Viveksah7875/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Viveksah7875/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1848-sum-of-unique-elements](https://github.com/Viveksah7875/leetcode_solution/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Viveksah7875/leetcode_solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
@@ -165,6 +167,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Viveksah7875/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [2102-find-the-middle-index-in-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
 ## Stack
 |  |
