@@ -127,6 +127,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Viveksah7875/leetcode_solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Viveksah7875/leetcode_solution/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Viveksah7875/leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2406-decode-the-message](https://github.com/Viveksah7875/leetcode_solution/tree/master/2406-decode-the-message) |
 | [3533-snake-in-matrix](https://github.com/Viveksah7875/leetcode_solution/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/Viveksah7875/leetcode_solution/tree/master/3617-find-the-original-typed-string-i) |
@@ -180,6 +181,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Viveksah7875/leetcode_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Viveksah7875/leetcode_solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viveksah7875/leetcode_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Viveksah7875/leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0055-jump-game](https://github.com/Viveksah7875/leetcode_solution/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Viveksah7875/leetcode_solution/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/Viveksah7875/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Viveksah7875/leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## String Matching
 |  |
 | ------- |
